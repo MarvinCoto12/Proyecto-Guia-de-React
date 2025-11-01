@@ -1,0 +1,36 @@
+#root {
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  gap: 4rem;
+}
+
+div {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  color: #b5b4b4;
+}
+
+ul {
+  list-style-position: inside;
+  padding: 0;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+input {
+  padding: 6px; 
+  width: 250px; 
+  font-size: 16px; 
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-right: 12px; 
+}
+
+button {
+  padding: 10px 18px;
+  font-size: 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 12px; 
+}
